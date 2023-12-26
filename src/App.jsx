@@ -84,6 +84,7 @@ function App() {
           </li>
         ))}
       </Shop>
+      <h1>Hello World!</h1>
     </CartContext.Provider>
   );
 }
